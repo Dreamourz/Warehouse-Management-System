@@ -1,2 +1,2 @@
 # Warehouse-Management-System
-A group project result.
+A python-based group project result.
